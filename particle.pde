@@ -1,3 +1,9 @@
+/* OpenProcessing Tweak of *@*http://www.openprocessing.org/sketch/2799*@* */
+/* !do not delete the line above, required for linking your tweak if you upload again */
+// Gravity Swarm II
+// Claudio Gonzales, July 2009
+// Albuquerque, New Mexico
+
 class particle {
   
   float x;
