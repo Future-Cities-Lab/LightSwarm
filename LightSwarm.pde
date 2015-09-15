@@ -5,6 +5,9 @@
 import processing.serial.*;
 Serial yunPort; 
 
+
+//COllins new codd
+
 //BOOLEAN VARIABLES
 boolean PIXELVIEW = false; //LOAD SECOND FRAME WITH PIXEL FACADE VIEW
 boolean SHOW_DISPLAY = true; //ACTIVATE PIXEL DISPLAY keypress "shift" to toggle
